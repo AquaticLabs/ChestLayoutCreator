@@ -1,0 +1,11 @@
+name: ChestLayoutCreator
+version: ${project.version}
+main: me.extremesnow.chestlayoutcreator.ChestLayoutCreator
+api-version: 1.14
+authors: [ extremesnow ]
+description: Create fake chests for menu creation
+commands:
+  chestlayoutcreator:
+    description: Create chests to help design GUI layouts
+    usage: /chestlayoutcreator <arg>
+    aliases: [clc]
